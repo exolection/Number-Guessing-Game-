@@ -1,2 +1,3 @@
 # Number-Guessing-Game-
-first ever project of mine to be posted on GitHub
+https://roadmap.sh/projects/number-guessing-game
+first ever project of mine posted in GitHub.
